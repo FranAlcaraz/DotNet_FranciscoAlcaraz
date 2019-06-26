@@ -1,0 +1,30 @@
+C:\Users\Franco\source\repos\ConsoleApp2\TP6 - Ejercicio\bin\Debug\TP6 - Ejercicio.exe.config
+C:\Users\Franco\source\repos\ConsoleApp2\TP6 - Ejercicio\bin\Debug\TP6 - Ejercicio.exe
+C:\Users\Franco\source\repos\ConsoleApp2\TP6 - Ejercicio\bin\Debug\TP6 - Ejercicio.pdb
+C:\Users\Franco\source\repos\ConsoleApp2\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\ConsoleApp2\TP6 - Ejercicio\obj\Debug\TP6___Ejercicio.Form1.resources
+C:\Users\Franco\source\repos\ConsoleApp2\TP6 - Ejercicio\obj\Debug\TP6___Ejercicio.Properties.Resources.resources
+C:\Users\Franco\source\repos\ConsoleApp2\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.csproj.GenerateResource.cache
+C:\Users\Franco\source\repos\ConsoleApp2\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\ConsoleApp2\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.exe
+C:\Users\Franco\source\repos\ConsoleApp2\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.pdb
+C:\Users\Falcaraz\Google Drive\Cuatrimestre 4\Plataformas de Desarrollo\tp final\TP6 - Ejercicio\bin\Debug\TP6 - Ejercicio.exe.config
+C:\Users\Falcaraz\Google Drive\Cuatrimestre 4\Plataformas de Desarrollo\tp final\TP6 - Ejercicio\bin\Debug\TP6 - Ejercicio.exe
+C:\Users\Falcaraz\Google Drive\Cuatrimestre 4\Plataformas de Desarrollo\tp final\TP6 - Ejercicio\bin\Debug\TP6 - Ejercicio.pdb
+C:\Users\Falcaraz\Google Drive\Cuatrimestre 4\Plataformas de Desarrollo\tp final\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.csprojAssemblyReference.cache
+C:\Users\Falcaraz\Google Drive\Cuatrimestre 4\Plataformas de Desarrollo\tp final\TP6 - Ejercicio\obj\Debug\TP6___Ejercicio.Form1.resources
+C:\Users\Falcaraz\Google Drive\Cuatrimestre 4\Plataformas de Desarrollo\tp final\TP6 - Ejercicio\obj\Debug\TP6___Ejercicio.Properties.Resources.resources
+C:\Users\Falcaraz\Google Drive\Cuatrimestre 4\Plataformas de Desarrollo\tp final\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.csproj.GenerateResource.cache
+C:\Users\Falcaraz\Google Drive\Cuatrimestre 4\Plataformas de Desarrollo\tp final\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Falcaraz\Google Drive\Cuatrimestre 4\Plataformas de Desarrollo\tp final\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.exe
+C:\Users\Falcaraz\Google Drive\Cuatrimestre 4\Plataformas de Desarrollo\tp final\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.pdb
+C:\Users\Falcaraz\Desktop\tp final net\TP6 - Ejercicio\bin\Debug\TP6 - Ejercicio.exe.config
+C:\Users\Falcaraz\Desktop\tp final net\TP6 - Ejercicio\bin\Debug\TP6 - Ejercicio.exe
+C:\Users\Falcaraz\Desktop\tp final net\TP6 - Ejercicio\bin\Debug\TP6 - Ejercicio.pdb
+C:\Users\Falcaraz\Desktop\tp final net\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.csprojAssemblyReference.cache
+C:\Users\Falcaraz\Desktop\tp final net\TP6 - Ejercicio\obj\Debug\TP6___Ejercicio.Form1.resources
+C:\Users\Falcaraz\Desktop\tp final net\TP6 - Ejercicio\obj\Debug\TP6___Ejercicio.Properties.Resources.resources
+C:\Users\Falcaraz\Desktop\tp final net\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.csproj.GenerateResource.cache
+C:\Users\Falcaraz\Desktop\tp final net\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Falcaraz\Desktop\tp final net\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.exe
+C:\Users\Falcaraz\Desktop\tp final net\TP6 - Ejercicio\obj\Debug\TP6 - Ejercicio.pdb
